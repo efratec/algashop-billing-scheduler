@@ -1,2 +1,2 @@
-# algashop-billing-scheduler
-Biiling Scheduler
+# algashop-template-inicial
+algashop template
